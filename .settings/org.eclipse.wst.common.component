@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="TPJSP_Alejandra_Valentin">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="java-output-path" value="/TPJSP_Alejandra_Valentin/build/classes"/>
+        <property name="context-root" value="TPJSP_Alejandra_Valentin"/>
+            
+    </wb-module>
+    
+</project-modules>
